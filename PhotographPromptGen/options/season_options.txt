@@ -1,0 +1,6 @@
+# Season Options
+Spring
+Summer
+Autumn
+Winter
+# User-added preset items below

@@ -1,0 +1,6 @@
+[
+    {
+      "name": "My Custom Style 1",
+      "brief": "Transform the image into my personal artistic style with vibrant colors, dynamic composition, and expressive brushstrokes that capture emotion and movement."
+    },
+]

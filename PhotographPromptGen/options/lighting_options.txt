@@ -1,0 +1,15 @@
+# Lighting Options
+Natural Light
+Side Lighting
+Backlighting
+Ambient Light
+Artificial Lighting
+High Contrast Lighting
+Soft Lighting
+Low-Angle Lighting
+Split Lighting
+Window Light
+Spotlighting
+Flash Lighting
+Nighttime Lighting
+# User-added preset items below

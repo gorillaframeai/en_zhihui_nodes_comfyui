@@ -1,0 +1,156 @@
+# Location Options
+China | Great Wall
+China | Forbidden City
+China | West Lake
+China | Zhangjiajie
+China | Jiuzhaigou Valley
+China | Huangshan Mountain
+China | Guilin Scenery
+China | Mogao Caves
+China | Mausoleum of the First Qin Emperor
+China | Summer Palace
+China | Temple of Heaven
+China | Potala Palace
+China | Mount Emei
+China | Leshan Giant Buddha
+China | Pingyao Ancient City
+China | Lijiang Ancient Town
+China | Tibet Pumo Yongcuo Lake
+China | Tibet Baimalin Lake
+Taiwan | Taipei 101
+Taiwan | Alishan
+Taiwan | Sun Moon Lake
+Taiwan | Kenting National Park
+Taiwan | Taroko Gorge
+Taiwan | Yehliu Geopark
+Taiwan | Jiufen Old Street
+Taiwan | Tamsui Fisherman's Wharf
+Hong Kong | Victoria Harbour
+Macau | Ruins of St. Paul's
+Japan | Tokyo Senso-ji Temple
+Japan | Kyoto Kinkaku-ji
+Japan | Osaka Castle
+Japan | Nara Todai-ji Temple
+Japan | Mount Fuji
+Japan | Sapporo Clock Tower
+Japan | Hakodate Night View
+Japan | Okinawa Shuri Castle
+Japan | Nagoya Castle
+Japan | Hiroshima Peace Memorial Park
+Japan | Nagasaki Glover Garden
+Japan | Kobe Kitano-cho
+Japan | Yokohama Chinatown
+Japan | Kamakura Daibutsu
+Japan | Nikko Toshogu Shrine
+Japan | Shirakawa-go
+Japan | Hakone Hot Springs
+Japan | Karuizawa
+Japan | Hokkaido Furano
+Japan | Otaru Canal
+Japan | Naha Kokusai Street
+Korea | Seoul Gyeongbokgung Palace
+Korea | Jeju Island Hallasan Mountain
+Singapore | Merlion Park
+Malaysia | Kuala Lumpur Petronas Twin Towers
+Indonesia | Bali Tanah Lot
+Indonesia | Borobudur
+Indonesia | Prambanan Temple
+Malaysia | Malacca Christ Church
+Malaysia | Penang George Town
+Laos | Luang Prabang
+Laos | Vientiane Pha That Luang
+Myanmar | Yangon Shwedagon Pagoda
+Vietnam | Hanoi Hoan Kiem Lake
+Myanmar | Bagan Temples
+Vietnam | Halong Bay
+Vietnam | Hoi An Ancient Town
+Thailand | Bangkok Grand Palace
+India | Taj Mahal
+France | Eiffel Tower
+France | Louvre Museum
+France | Palace of Versailles
+France | Mont Saint-Michel
+Italy | Colosseum
+Italy | Leaning Tower of Pisa
+Italy | Venice St. Mark's Basilica
+Italy | Florence Cathedral
+Italy | Milan Cathedral
+Italy | Mount Vesuvius
+UK | Stonehenge
+UK | London Tower Bridge
+UK | Buckingham Palace
+UK | Big Ben
+Germany | Neuschwanstein Castle
+Germany | Cologne Cathedral
+Spain | Barcelona Sagrada Familia
+Spain | Madrid Royal Palace
+Spain | Alhambra
+Greece | Athens Acropolis
+Greece | Santorini
+Russia | Kremlin
+Russia | Red Square
+Russia | Moscow Metro
+Austria | Vienna Schönbrunn Palace
+Czech | Prague Castle
+Hungary | Buda Castle
+Poland | Warsaw Old Town
+Latvia | Riga Old Town
+Estonia | Tallinn Old Town
+Finland | Helsinki Cathedral
+Norway | Oslo Opera House
+Sweden | Stockholm City Hall
+Denmark | Copenhagen Little Mermaid
+Iceland | Reykjavik Hallgrímskirkja
+Iceland | Golden Circle
+Iceland | Blue Lagoon
+Ireland | Giant's Causeway
+UK | Scottish Highlands
+Multi-country | Northern Lights Observatory
+Multi-country | Celtic Sea
+Croatia | Plitvice Lakes
+Italy | Venice
+Portugal | Pena Palace
+Belgium | Brussels Grand Place
+Netherlands | Amsterdam Canals
+Vatican | St. Peter's Basilica
+USA | Golden Gate Bridge
+USA | Grand Canyon
+USA | Statue of Liberty
+USA | New York Central Park
+USA | Washington Monument
+USA | Lincoln Memorial
+USA | White House
+USA | Chicago Cloud Gate
+USA | Hollywood Sign
+USA | Las Vegas Strip
+USA | San Francisco Fisherman's Wharf
+USA | Seattle Space Needle
+USA | Boston Freedom Trail
+USA | Philadelphia Liberty Bell
+USA | Niagara Falls
+USA | Yellowstone National Park
+USA | Hawaii Volcanoes National Park
+Canada | Toronto CN Tower
+Canada | Vancouver Stanley Park
+Canada | Montreal Notre-Dame Basilica
+Canada | Old Quebec
+Canada | Banff National Park
+Mexico | Mexico City Zócalo
+Mexico | Chichen Itza
+Mexico | Teotihuacan
+Mexico | Guanajuato
+Peru | Machu Picchu
+Peru | Cusco
+Brazil | Rio Christ the Redeemer
+Brazil | Iguazu Falls
+Argentina | Buenos Aires Obelisco
+Chile | Santiago Plaza de Armas
+Chile | Easter Island Moai
+Bolivia | Uyuni Salt Flats
+Ecuador | Galapagos Islands
+Egypt | Pyramids of Giza
+Egypt | Great Sphinx of Giza
+Egypt | Karnak Temple
+Egypt | Valley of the Kings
+Egypt | Luxor Temple
+# User-added preset items below

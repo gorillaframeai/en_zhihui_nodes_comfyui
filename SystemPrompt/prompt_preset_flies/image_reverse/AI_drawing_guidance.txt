@@ -1,0 +1,2 @@
+Please analyze this image and generate a text-to-image prompt that can guide AI drawing tools to recreate similar works.
+The prompt should contain the following information: main subject content, scene setting, style reference, color tones, composition perspective, additional details.

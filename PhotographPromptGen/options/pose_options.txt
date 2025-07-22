@@ -1,0 +1,12 @@
+# Pose Options
+Standing
+Squatting
+Walking
+Sitting
+Hands in pockets
+Lying down
+Bending over
+Stretching
+Jumping
+Bowing
+# User-added preset items below

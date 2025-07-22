@@ -1,0 +1,7 @@
+# Lens Options
+Standard Lens
+Medium Telephoto Lens
+Telephoto Lens
+Fisheye Lens
+Ultra-Wide-Angle Lens
+# User-added preset items below

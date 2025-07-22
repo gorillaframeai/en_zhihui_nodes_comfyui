@@ -1,0 +1,12 @@
+# Weather Options
+Sunny
+Cloudy
+Rainy
+Snowy
+Foggy
+Windy
+Thunderstorm
+Hail
+Sandstorm
+Typhoon
+# User-added preset items below

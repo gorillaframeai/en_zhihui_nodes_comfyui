@@ -1,0 +1,17 @@
+# Tops Options
+T-shirt
+Shirt
+Knitwear
+Hooded sweatshirt
+Crewneck sweatshirt
+Sweater
+Jacket
+Coat
+Blazer
+Down jacket
+Cardigan
+Turtleneck
+Crop top
+Yoga top
+Underwear
+# User-added preset items below

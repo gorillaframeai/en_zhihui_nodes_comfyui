@@ -1,0 +1,26 @@
+# Accessories Options
+Necklace
+Earrings
+Bracelet
+Ring
+Watch
+Belt
+Silk scarf
+Scarf
+Hat
+Sunglasses
+Handbag
+Backpack
+Headband
+Hair clip
+Wristband
+Anklet
+Shawl
+Beanie
+Fanny pack
+Brooch
+Tie clip
+Cufflinks
+Keychain
+Badge
+# User-added preset items below

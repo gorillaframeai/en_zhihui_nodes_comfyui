@@ -1,0 +1,17 @@
+# Character Options
+Model
+Actor
+Athlete
+Dancer
+Singer
+Artist
+Photographer
+Doctor
+Teacher
+Student
+Office Worker
+Chef
+Soldier
+Police
+Firefighter
+# User-added preset items below
