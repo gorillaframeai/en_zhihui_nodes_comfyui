@@ -1,6 +1,6 @@
 🎨 en_zhihui_nodes_comfyui
-English-language fork of the awesome ZhiHui6/zhihui-nodes-comfyui
-https://github.com/gorillaframeai/en_zhihui_nodes_comfyui/releases
+https://github.com/gorillaframeai/en_zhihui_nodes_comfyui.git
+English-language fork of the awesome ZhiHui6/zhihui-nodes-comfyui #https://github.com/gorillaframeai/en_zhihui_nodes_comfyui/releases
 LICENSE
 https://github.com/comfyanonymous/ComfyUI
 ---
