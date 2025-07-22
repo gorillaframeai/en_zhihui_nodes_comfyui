@@ -42,4 +42,4 @@ Covering text processing, prompt optimization, image manipulation, and more, it 
 
 1. Install [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)  
 2. Open Manager → “Install Custom Nodes”  
-3. Search `zhihui-nodes-comfyui` (or use Git URL)  
+3. Search `en-zhihui-nodes-comfyui` (or use Git URL)  
